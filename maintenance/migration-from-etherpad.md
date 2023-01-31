@@ -45,7 +45,6 @@ Add to this directory the file listed below, I called it `migrate-etherpad.sh`. 
 # migrate-etherpad.sh
 #
 # Description: Migrate pads from etherpad to codimd
-# Author: Daan Sprenkels <hello@dsprenkels.com>
 
 # This script uses the codimd command line script[1] to import a list of pads from 
 # [1]: https://github.com/hackmdio/codimd-cli/blob/master/bin/codimd
